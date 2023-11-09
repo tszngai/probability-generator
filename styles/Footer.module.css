@@ -1,0 +1,6 @@
+.footer {
+  width: 100%;
+  border-top: 1px solid #eaeaea;
+  padding: 1rem 0;
+  z-index: 100;
+}
